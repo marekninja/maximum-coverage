@@ -1,4 +1,4 @@
-# pseudokod pre domacu ulohu 1 - Maximum coverage proglem
+#Maximum coverage problem solver
 import argparse
 from datetime import datetime
 import sys
